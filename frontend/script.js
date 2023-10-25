@@ -17,7 +17,7 @@ require(["vs/editor/editor.main"], function () {
     const qualityCheckButton = document.getElementById("qualityCheckButton");
     const runButton = document.getElementById("runButton")
     const output = document.getElementById("output");
-    const baseURL = "http://localhost:8080";
+    const baseURL = "https://fair-puce-stingray-ring.cyclic.app/";
 
     // Event listener for the "Run" button
     runButton.addEventListener("click", async () => {
