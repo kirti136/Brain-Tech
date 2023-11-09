@@ -1,7 +1,7 @@
 
 # Brain Tech
 
-Brain Tech is an innovative project designed for developers, providing a comprehensive code conversion and debugging platform. With a user-friendly interface, it allows users to seamlessly run, debug, convert, and perform quality checks on their code. The platform supports various programming languages, enhancing the efficiency and productivity of developers.
+Brain Tech is an innovative project designed for developers, providing a code conversion and debugging platform. With a user-friendly interface, it allows users to seamlessly run, debug, convert, and perform quality checks on their code. The platform supports various programming languages, enhancing the efficiency and productivity of developers.
 
 
 ![Logo](https://raw.githubusercontent.com/kirti136/Brain-Tech/main/frontend/images/logo.png)
